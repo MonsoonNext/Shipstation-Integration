@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(func init *)",
+      "PowerShell(npm install *)",
+      "WebSearch",
+      "WebFetch(domain:docs.shipstation.com)"
+    ]
+  }
+}
